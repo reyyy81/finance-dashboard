@@ -17,7 +17,7 @@ const Navbar = (props: Props) => {
       <FlexBetween gap="0.75rem">
         <PixIcon sx={{ fontSize: "28px" }} />
         <Typography variant="h4" fontSize="16px">
-          Finanseer
+          Finance Dashboard
         </Typography>
       </FlexBetween>
 
@@ -52,4 +52,4 @@ const Navbar = (props: Props) => {
   );
 };
 
-export default Navbar;
+export default
